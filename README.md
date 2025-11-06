@@ -5,16 +5,16 @@ Over a four month period, we engaged with over 100 research software engineers (
 
 This position statement was developed based on the input of RSEs at these events and compiled by event organizers at the Alliance for Data Science and AI (ADSA), the US Research Software Engineer Association (US-RSE), UK Centre for Ecology & Hydrology (UKCEH), Institute of Computing for Climate Science (ICCS), University College London (UCL), and generously supported by Schmidt Sciences.
 
-If you are interested in reviewing the position statement and signing it once it is finalized, you're in the right place! 
+If you are interested in <strong>reviewing the position statement and signing it</strong> once it is finalized, you're in the right place! 
 
 ## [Review the Draft Position Statement here](https://github.com/Academic-Data-Science-Alliance/rse-ai-position-statement/issues)
 
 ### Next Steps
 
 <ol>
-  <li>Review the DRAFT position statement</li>
-  <li>Add comments and questions as an issue on this repository by November 28, 2025</li>
+  <li><strong>Review</strong> the DRAFT position statement</li>
+  <li><strong>Add comments and questions</strong> as an issue on this repository <strong>by November 28, 2025</strong></li>
   <li>The organizing group will review and incorporate comments</li>
   <li>In early December, the organizing group will notify the RSE community of opportunity to sign the position statement</li>
-  <li>Position statement will be published with signatories and distributed broadly</li>
+  <li>The signed position statement will be <strong>published in mid-December</strong> and distributed broadly</li>
 </ol>
